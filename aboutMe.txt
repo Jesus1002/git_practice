@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Name: Jesus Bustos
 Age: 21
-Interests: Movies, Music and Coding
+Interests: Movies, Music & Coding
 Favorite Movie: Bruce Almighty
-=======
->>>>>>> parent of 0cff437... updated aboutMe
